@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+}
+
+.loud {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.hwt {
+    font-family: hwt-mardell, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
